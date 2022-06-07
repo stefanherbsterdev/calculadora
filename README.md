@@ -1,7 +1,7 @@
 # calculadora
 
 ---
-**Autor:** Stefan Herbster
+**Autor:** Stefan Herbster <stefanherbster.dev@gmail.com>
 
 ### Como funciona 
 Gostaria de enfatizar que a determinação clara de objetivos representa uma abertura para a melhoria do remanejamento dos quadros principais.
