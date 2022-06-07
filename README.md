@@ -1,1 +1,7 @@
 # calculadora
+
+---
+**Autor:** Stefan Herbster
+
+
+
