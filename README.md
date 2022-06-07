@@ -9,6 +9,6 @@ Por conseguinte, a determinação clara de objetivos ainda não demonstrou convi
 
 ## O processo de comandos básicos do Git são:
 
-git add .
-git commit -m "identifica a alteração"
-git push origin main "irá impusionar as alteraçôes feitas"
+<p> git add . </p> <br>
+ <p>git commit -m "identifica a alteração"</p> <br>
+<p>git push origin main "irá impusionar as alteraçôes feitas"</p>
